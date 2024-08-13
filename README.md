@@ -5,8 +5,8 @@ Project Overview
 The project involves the following key design parameters and outputs:
 
 Design Parameters
-Application: Storage system interface
-Rated Power (AC side): 200 kW
+- Application: Storage system interface
+- Rated Power (AC side): 200 kW
 Low Voltage Grid: 400Vrms line-line ± 10% 50 Hz
 Storage System: Battery voltage range 700-800V
 DC/AC Converter: Two-level VSI
